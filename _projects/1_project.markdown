@@ -4,7 +4,7 @@ title: DeepGanronpa
 description: GAN Voice Line Generation
 img: /assets/img/monokuma.png
 importance: 1
-category: personal
+category: fun
 ---
 
 Danganronpa is a series of videogames centered on the life of highly qualified students trapped inside Hope's Peak Academy. To escape the school and its deadly headmaster Monokuma, they must murder another classmates and not be accused of murdering them at the end of the class trial, where all the remaining student vote on who commited the murder. If the murderer is not undurcovered, they are free to escape and the rest of the class executed, if they fail to commit the perfect crime, they receive a 'punition' from Monokuma, aka a gruesome death.
