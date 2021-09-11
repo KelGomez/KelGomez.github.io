@@ -1,24 +1,20 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: DeepGanronpa
+description: GAN Voice Line Generation
+img: /assets/img/monokuma.png
 importance: 1
-category: work
+category: personal
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Danganronpa is a series of videogames centered on the life of highly qualified students trapped inside Hope's Peak Academy. To escape the school and its deadly headmaster Monokuma, they must murder another classmates and not be accused of murdering them at the end of the class trial, where all the remaining student vote on who commited the murder. If the murderer is not undurcovered, they are free to escape and the rest of the class executed, if they fail to commit the perfect crime, they receive a 'punition' from Monokuma, aka a gruesome death.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Danganronpa is a visual novel, a very heavy scenario based video game with a lot of dialogue and therefore voice lines. In each of the 3 video games, the cast of 15 characters have distinct voice and thousands of voice lines.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+I greatly enjoyed playing those games 2 two years and had the idea of using a generative adverserial network in order to generate new voice lines for the character of the game. I decided to focus on 3 of the characters that talked the most, one from each game: Kyoko, Nagito and Kokichi.
+
+This page is about my personal DeepGanronpa. I did it because I wnated to challenged myself on mastering the science of GAN's.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
