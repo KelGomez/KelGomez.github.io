@@ -16,8 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Sebastien Kel Gomez. I graduated in June 2021 from a top CS science in France with my Master Degree in computer science. There I specialized in Machine Learning. 
+I am Sebastien Kel Gomez. I graduated in June 2021 from a top CS School in France with my Master Degree in computer science. There I obtained my master degree and specialized in Machine Learning. 
+
 My goal is to be accepted into a PhD program in order to become a researcher in Artificial Intelligence.
+
 My areas of interest are: Machine Learning, NLP, Deep Learning, Reiforcement Learning and Computer Vision. I am also very interested by Artificial General Intelligence.
 
 Feel free to contact me at sebastien.gomez2e2@gmail.com
