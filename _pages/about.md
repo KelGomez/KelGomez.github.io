@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Sebastien Kel Gomez. I graduated in June 2021 from a top CS School in France with my Master Degree in Computer Science. There I specialized in Machine Learning. 
+I am Sebastien  Gomez. I graduated in June 2021 from a top CS School in France with my Master Degree in Computer Science. There I specialized in Machine Learning. 
 
 My goal is to be accepted into a PhD program in order to become a researcher in Artificial Intelligence.
 
