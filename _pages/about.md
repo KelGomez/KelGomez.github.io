@@ -20,7 +20,7 @@ I am Sebastien  Gomez. I graduated in June 2021 from a top CS School in France w
 
 My goal is to be accepted into a PhD program in order to become a researcher in Artificial Intelligence.
 
-My areas of interest are: Machine Learning, Deep Learning, Reiforcement Learning and Computer Vision. I am also very interested by Artificial General Intelligence.
+My areas of interest are: Machine Learning, Deep Learning, Reinforcement Learning and Computer Vision. I am also very interested by Artificial General Intelligence.
 
 Feel free to contact me at sebastien.gomez2e2@gmail.com
 
